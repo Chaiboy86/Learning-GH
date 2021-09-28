@@ -41,7 +41,7 @@ struct QuoteListView: View {
                     }
                 }
             }
-            .navigationTitle("Quotes")
+            .navigationTitle("Quotes List")
         }
     }
 }
